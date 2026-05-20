@@ -4,7 +4,7 @@
 
 # <div align="center"><b>Hi 👋, I'm Khushi Hooda</b></div>
 
-### <div align="center"><b>AI/ML Developer • Full Stack Developer • Computer Vision Enthusiast</b></div>
+### <div align="center"><b>AI/ML Developer • Full Stack Developer • Software Engineer</b></div>
 
 <p align="center">
 Passionate about building scalable AI-powered applications, intelligent systems, and modern full-stack solutions.
@@ -17,45 +17,23 @@ Passionate about building scalable AI-powered applications, intelligent systems,
 </div>
 
 ---
-
 # 🌌 About Me
 
-```yaml
-name: Khushi Hooda
+<div>
 
-education:
-  degree: Bachelor of Technology (B.Tech)
+🎓 <b>Final Year B.Tech Student</b>  
 
-roles:
-  - Artificial Intelligence & Machine Learning Developer
-  - Full Stack Developer
-  - Computer Vision Enthusiast
+🚀 Building scalable AI-powered applications, intelligent systems, and modern full-stack solutions.  
 
-specializations:
-  - Machine Learning
-  - Deep Learning
-  - Computer Vision
-  - Generative AI
-  - Full Stack Web Development
+⚡ Skilled in <b>Machine Learning, Deep Learning, Computer Vision, Generative AI,</b> and <b>Full Stack Development</b>.  
 
-technical_expertise:
-  - Predictive Modeling
-  - AI-powered Applications
-  - Image Processing & OCR
-  - AI + Web Integration
-  - Research-oriented Development
-  - Intelligent Automation Systems
+🧠 Experienced in <b>Predictive Modeling, Image Processing, OCR Systems,</b> and <b>AI + Web Integration</b>.  
 
-current_focus:
-  - Scalable AI Systems
-  - Computer Vision Applications
-  - Deep Learning Research
-  - Full Stack AI Platforms
-  - Real-world AI Integration
+💡 Passionate about solving real-world problems through scalable and efficient software solutions.  
 
-vision:
-  "Focused on creating impactful AI-driven solutions that combine innovation, scalability, and practical usability."
-```
+🎯 Currently focused on <b>Scalable AI Systems, Computer Vision Applications,</b> and <b>Research-oriented Development</b>.  
+
+</div>
 
 ---
 
@@ -80,17 +58,6 @@ vision:
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
 
 </div>
----
-
-# 🧠 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/KhushiHooda/">
-<img src="https://img.shields.io/badge/LeetCode-Active-orange?style=for-the-badge&logo=leetcode" />
-</a>
-
-</div>
 
 ---
 
@@ -105,6 +72,8 @@ vision:
 | Neural Networks | Object Detection | Scalable Platforms | Intelligent Systems |
 
 </div>
+
+
 ---
 
 # 🚀 Featured Projects
@@ -158,6 +127,8 @@ AI-driven agriculture monitoring system with image processing and chatbot integr
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khushihooda&theme=tokyo-night&hide_border=true" />
 
 </div>
+
+
 ---
 
 # 🌐 Connect With Me
