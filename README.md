@@ -78,10 +78,10 @@ Passionate about building scalable AI-powered applications, intelligent systems,
 
 # 🚀 Featured Projects
 
-## 🔹 VIRASAT — Indian Heritage AI System
-AI-powered heritage recognition platform using Deep Learning and Computer Vision.
+## 🔹 IoT-Based Weather Monitoring & Forecasting System
+Smart IoT-based weather monitoring and forecasting platform for real-time environmental data collection and predictive weather analysis.
 
-**Tech Stack:** Python • TensorFlow • OpenCV • Flask
+**Tech Stack:** ESP32 • Blynk IoT Cloud • Python • Pandas • Polynomial Regression
 
 ---
 
